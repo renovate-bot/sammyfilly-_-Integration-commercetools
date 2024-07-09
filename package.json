@@ -19,7 +19,7 @@
     "@types/node": "^16.11.56",
     "@types/react": "^18.0.17",
     "@types/react-dom": "^18.0.6",
-    "dprint": "^0.41.0",
+    "dprint": "^0.47.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-hotkeys-hook": "^3.4.7",
