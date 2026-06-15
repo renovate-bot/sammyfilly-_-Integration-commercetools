@@ -29,5 +29,5 @@ jobs:
         with:
           node-version: ${{ matrix.node-version }}
       - run: npm ci
-      - uses: dprint/check@v2.2
+      - uses: dprint/check@v2.3
       - run: npm run build
